@@ -16,7 +16,7 @@ function bubbleSortWrong($arr) {
         }
     }
     
-    return $arr;
+    return;
 }
 
 $unsortedArray = [5, 1, 4, 2, 8];
